@@ -1,4 +1,4 @@
-# recipe-finder
+# Recipe-finder 🥗
 # Taylor's Kitchen - Smart Recipe Finder 🍳
 
 A modern, responsive web application designed specifically for busy professionals like Taylor who need quick, efficient ways to discover recipes based on their available ingredients, preferences, and time constraints.
