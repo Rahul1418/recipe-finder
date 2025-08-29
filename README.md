@@ -215,6 +215,8 @@ This project is created for educational and demonstration purposes. The TheMealD
 - **Lucide**: For the beautiful icon library
 - **React Team**: For the excellent frontend framework
 
+**Project Link**- https://codesandbox.io/p/sandbox/snowy-flower-98jzvw
+
 ## 📞 Support & Contact
 
 For questions about this implementation or suggestions for improvements, please reach out through the provided channels.
